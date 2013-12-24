@@ -7,7 +7,7 @@ gary = misc.imread('gary', flatten=True)
 misc.imsave("gary1.bmp", gary)
 gary_flat = gary.flatten()
 
-def thres(gary_flat, t=100):tips
+def thres(gary_flat, t=100):
 	""" Thressholding """
 	gary2 = np.array([255 if x > t else 0 for x in gary_flat]).reshape(512,512)
 	return gary2
