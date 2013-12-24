@@ -22,3 +22,7 @@ $ pip install -r requirements.txt
 
 [Installing SciPy](http://www.scipy.org/install.html)
 
+Post scriptum
+-------------
+Yes, that is my cat being used as a test image for the moment. :)
+
