@@ -5,6 +5,10 @@ Work on master thesis in the field of Image Processing - "Algoritmi uklanjanja Å
 
 The task involves implementing several algorithms to better handle the specifics of noise that arrise in ultrasound medical images.
 
+Status
+------
+Work in progress, next task is to implement more advanced denoising algorithms, involving statistical methods from machine learning.
+
 Dependencies
 ------------
 Python libraries numpy and scipy are used extensively.
