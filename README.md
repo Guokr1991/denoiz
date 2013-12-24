@@ -3,7 +3,7 @@ denoiz
 
 Work on master thesis in the field of Image Processing - "Algoritmi uklanjanja šuma pri procesiranju medicinskih ultrazvučnih slika", Faculty of Mathematics, University of Belgrade.
 
-The task involves implementing several algorithms to better handle the specifics of noise that arrises in ultrasound medical images.
+The task involves implementing several algorithms to better handle the specifics of noise that arrise in ultrasound medical images.
 
 Dependencies
 ------------
