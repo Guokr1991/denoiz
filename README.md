@@ -13,7 +13,7 @@ On Ubuntu:
 ```shell
 $ sudo apt-get install libamd2.2.0 libblas3gf libc6 libgcc1 libgfortran3 liblapack3gf libumfpack5.4.0 libstdc++6 build-essential gfortran libatlas-dev libatlas3-base python python-all-dev gcc g++ libblas-dev liblapack-dev
 $ sudo apt-get install python-pip
-$ pip install numpy scipy
+$ pip install -r requirements.txt
 ```
 
 [Installing SciPy](http://www.scipy.org/install.html)
